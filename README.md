@@ -28,7 +28,7 @@ SO THAT I can reliably retrieve them for later use.
 ```
 
 ### Screenshot of Application
-[](./assets/images/PWA-text-editor-screenshot.png)
+![](./assets/images/PWA-text-editor-screenshot.png)
 
 This application is deployed on `Render`. To access it, click [here](https://pwa-text-editor-lan8.onrender.com/).
 
